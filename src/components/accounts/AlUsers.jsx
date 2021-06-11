@@ -8,7 +8,7 @@ function AllUsers(props) {
 
 	useEffect(() => {
 		async function fetchData(){
-			const request = await axios.get('http://127.0.01:8000/accounts/fetchUsers')
+			const request = await axios.get('https://abirs-django-chatapp.herokuapp.com/accounts/fetchUsers')
 			setusers(request.data)
 		}
 		
