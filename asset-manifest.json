@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chattingApp/static/css/main.c50487ba.chunk.css",
+    "main.js": "/chattingApp/static/js/main.d3a5a45d.chunk.js",
+    "main.js.map": "/chattingApp/static/js/main.d3a5a45d.chunk.js.map",
+    "runtime-main.js": "/chattingApp/static/js/runtime-main.25c1e1ec.js",
+    "runtime-main.js.map": "/chattingApp/static/js/runtime-main.25c1e1ec.js.map",
+    "static/js/2.74e6a5cf.chunk.js": "/chattingApp/static/js/2.74e6a5cf.chunk.js",
+    "static/js/2.74e6a5cf.chunk.js.map": "/chattingApp/static/js/2.74e6a5cf.chunk.js.map",
+    "static/js/3.3aa458bf.chunk.js": "/chattingApp/static/js/3.3aa458bf.chunk.js",
+    "static/js/3.3aa458bf.chunk.js.map": "/chattingApp/static/js/3.3aa458bf.chunk.js.map",
+    "index.html": "/chattingApp/index.html",
+    "static/css/main.c50487ba.chunk.css.map": "/chattingApp/static/css/main.c50487ba.chunk.css.map",
+    "static/js/2.74e6a5cf.chunk.js.LICENSE.txt": "/chattingApp/static/js/2.74e6a5cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25c1e1ec.js",
+    "static/js/2.74e6a5cf.chunk.js",
+    "static/css/main.c50487ba.chunk.css",
+    "static/js/main.d3a5a45d.chunk.js"
+  ]
+}
