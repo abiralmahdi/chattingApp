@@ -18,7 +18,7 @@ function InboxHeader(props) {
 		props.setisLoggedIn(false)
 		cookies.remove('username', {path:'/'})
 		cookies.remove('password', {path:'/'})
-		window.location.href = '/'
+		window.location.href = '/#'
 	}
 
 	useEffect(() => {
