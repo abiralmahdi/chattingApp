@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 function IndivUser(props) {
     function storeUser(){
-        window.location.href = `/#message/${props.user['email']}`
+        window.location.href = `/chattingApp/#/message/${props.user['email']}`
         props.setstoreUser(props.user['email'])
         props.setstoreUserID(props.user['username'])
         localStorage.setItem('storeUser', props.user['email'])

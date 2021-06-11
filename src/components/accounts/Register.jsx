@@ -28,7 +28,7 @@ function Register() {
             .then(res => {
                 console.log(res.data);
                 alert('Created account successfully! Please go to the Log in page to login to your account')
-                window.location.href = '/#chattingApp/'
+                window.location.href = '/chattingApp/'
             })
         }
         else{
