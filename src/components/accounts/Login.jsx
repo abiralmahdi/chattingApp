@@ -37,7 +37,7 @@ function Login(props) {
                             console.log(request.data.username)
                             localStorage.setItem('userID', request.data.username) 
                             
-                            window.location.href = 'chattingApp/#/message/inbox'
+                            window.location.href = '/chattingApp/#/message/inbox'
                         
                     }
                     ); 
